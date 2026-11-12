@@ -1,0 +1,11 @@
+Codex Skill 更新（新增文献综述模块）
+
+版本：v1.1
+将以下文件更新到 GitHub 仓库 chuan02967/law-paper-reasoning：
+1. 新建 references/02_法学文献综述写作规范.md（新增）
+2. 替换仓库根目录 SKILL.md（已添加新模块调用规则）
+3. 替换 agents/openai.yaml（优化简介，可选）
+4. 新增 README.md（说明文件结构与调用示例，可选）
+
+原来的 references/01_法学论文写作规范.md 和 references/03_规范与文献资料.md 保持不变。
+切勿把整个 ZIP 文件上传成仓库中的单一文件。
