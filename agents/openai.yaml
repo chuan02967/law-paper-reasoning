@@ -1,0 +1,4 @@
+interface:
+  display_name: "法学论文论证与写作"
+  short_description: "规范法学论文的论证结构、起草、审稿与去防御化表达"
+  default_prompt: "请使用 $law-paper-reasoning，依据我提供的材料检查论文的法律论证链条，并按我的要求起草、重写或审稿。"
